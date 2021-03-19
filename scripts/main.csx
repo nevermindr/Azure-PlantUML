@@ -26,11 +26,11 @@ var targetImageHeight = 70;
 
 var azureColor = System.Drawing.ColorTranslator.FromHtml("#0072C6");
 
-var plantUmlPath = @"C:\ProgramData\chocolatey\lib\plantuml\tools\plantuml.jar";
+var plantUmlPath = @"C:\projects-programming\plantuml\tools\plantuml.jar";
 
-var inkScapePath = @"C:\Program Files\Inkscape\inkscape.exe";
+var inkScapePath = @"C:\Program Files\Inkscape\bin\inkscape.exe";
 
-static string rsvgConvertPath = @"C:\ProgramData\chocolatey\bin\rsvg-convert.exe";
+static string rsvgConvertPath = @"C:\projects-programming\plantuml\tools\rsvg-convert-2.40.20\rsvg-convert.exe";
 
 
 Main();

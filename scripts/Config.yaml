@@ -194,6 +194,8 @@ Categories:
     Target: AzureLoadBalancer
   - Source: Azure VPN Gateway
     Target: AzureVPNGateway
+  - Source: Azure Network Security Groups
+    Target: AzureNetworkSecurityGroups
   - Source: AzureApplicationGateway
     Target: AzureApplicationGateway
   - Source: ddos-protection
