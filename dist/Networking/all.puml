@@ -96,6 +96,18 @@ AzureEntityColoring(AzureVirtualNetwork)
 !define AzureVirtualNetwork(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureVirtualNetwork, AzureVirtualNetwork)
 !define AzureVirtualNetwork(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureVirtualNetwork, AzureVirtualNetwork)
 
+sprite $AzureNetworkSecurityGroups [70x70/16z] {
+xTXN5fr030HH0QFGjV_zEgU1HnYSRMe1zxH-PKSjdYKXPRJ9RZMv-BQSRRmlXlJ5cKQ75A3qzgvuNmfGiv6QGD4-5f_Is9ovW6njfKJg-fnMWBnjbOW2v2Tx
+fiLJT4Dw9L805Mss5tbc2Q0pEgLp05LbTBCQdrDwMnNhilXSTLEWmhq3EcLRPXQeLzHsYzrohTHFLtAltweyogCyogCyIaC7IksLr4g9tNpV9-sRPiZQg-sM
+X7tRFKMqJYdgXW9pfyGTnP5rBJ2k96bzkg68nVe2ZIgERDKCeqeHjYv75OV9heyvcB8jqOZYQB9janXHXDkh75rN4jdhXAug3ikECaDfMtkH2DlBeIufXMo_
+H7L1IJJRGONgL0bOxAXPd6vnS3jksJ9R9Eoi1TItGTBEQsjc7EcPhH9GPdUO7acxsY9KsYgvW-mq2sgZ5CJmXw1wnGLkWoLqIe0M6yv1zKKfgCbkr0IV51Ua
+tMiga6WjGSrkvu1I_JNZBGB0xJiBgDbEUWi
+}
+
+AzureEntityColoring(AzureNetworkSecurityGroups)
+!define AzureNetworkSecurityGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureNetworkSecurityGroups, AzureNetworkSecurityGroups)
+!define AzureNetworkSecurityGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureNetworkSecurityGroups, AzureNetworkSecurityGroups)
+
 sprite $AzureVirtualWAN [70x70/16z] {
 jPM9biGe24LP18N__-0PgykqRpHBvvovlTPsyq0qT8TeiNyfHPbU8iLcb5x0u7ZfKTlnnxgAxH5w3XlmiYgxG5wKyxutOfSKkeP5X9di1hqSiSUyAM957uxf
 Yywe_HL-AK7afGJHYxw-RmpRAueAByF-qWJrl4UUHN7tMjrlsdnfQ963QDLF-omNYl7v6Awe9sdqqj5CcJfIBpnorfRM5ONfYtU1bSyVtzIq3nAPJMcWaHcz
