@@ -7,11 +7,11 @@
 !define AZURE_BG_COLOR #FFFFFF
 !define AZURE_BORDER_COLOR #3C7FC0
 !define AZURE_SYMBOL_COLOR AZURE_COLOR
-!define AZURE_E_SCALE 1
 
 ' Styling
 ' ##################################
 
+!define AZURE_E_SCALE 1
 !define TECHN_FONT_SIZE 12
 
 skinparam defaultTextAlignment center
